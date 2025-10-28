@@ -1,0 +1,6 @@
+Je suis 
+le fichier
+notes.txt
+j'ai subi 
+des mofdifications dans la branche
+feature1
